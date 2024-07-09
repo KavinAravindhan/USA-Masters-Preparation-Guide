@@ -3,7 +3,7 @@
 Welcome to the comprehensive guide for preparing for your Master's degree in the USA! This repository contains all the essential information and resources you'll need, including exam details, book recommendations, university rankings, and more.
 
 ![Repository Views](https://visitor-badge.glitch.me/badge?page_id=KavinAravindhan.USA-Masters-Preparation-Guide)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 ## 📚 Choosing the University
