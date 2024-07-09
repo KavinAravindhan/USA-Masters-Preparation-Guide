@@ -78,13 +78,37 @@ You will need to upload unofficial transcripts as proof of your bachelor’s deg
 - Preferred faculty: HOD, project guide, research supervisor.
 - Note: LORs are uploaded by the recommenders directly through a link sent to them via email once you add their email IDs in the application.
 
-### Other Information:
+### 📚 Other Information
 
-- Answer every question in the application, even if optional.
-- Some applications require you to mention professors you wish to work with. Use [Rate My Professor](https://www.ratemyprofessors.com/) to know about them.
-- Create a [spreadsheet](https://docs.google.com/spreadsheets/) to track admission requirements, shortlisted universities, application status, LOR status, application fees, etc.
-- Prefer a credit card for application fees as some applications do not accept debit cards.
-- Look for admission webinars or fee waivers before submitting applications.
+- **Answer Every Question**:
+  Answer every question in the application, even if it is optional. Sometimes, the admission committee looks at these responses to make a decision.
+
+- **Mention Professors**:
+  Some applications require you to mention professors you wish to work with. Use [Rate My Professor](https://www.ratemyprofessors.com/) to learn about them.
+
+- **Create a Spreadsheet**:
+  Create a spreadsheet to track:
+  - Admission requirements
+  - Shortlisted universities
+  - Application status
+  - LOR status
+  - Application fees status
+  - Any other relevant details
+  [Example Spreadsheet Template](#)
+
+- **Preferred Payment Method**:
+  Prefer a credit card for application fees as some applications do not accept debit cards.
+
+- **Look for Fee Waivers**:
+  Look for admission webinars or fee waivers before submitting applications.
+
+- **University Categorization**:
+  Split the universities into three categories based on your profile, previous admits, and acceptance rates:
+  - **Tough**: Highly competitive universities (2-3 universities)
+  - **Moderately Tough**: Moderately competitive universities (3-4 universities)
+  - **Relatively Safe**: Universities where you have a higher chance of admission (3 universities)
+
+  Ideal number of universities to apply to is 8-10, with 2-3 in the tough category, 3-4 in the moderately tough category, and 3 in the relatively safe category.
 
 ## 📑 GRE, TOEFL & IELTS
 
